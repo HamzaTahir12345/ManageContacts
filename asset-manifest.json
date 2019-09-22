@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ManageContacts/static/css/main.36497136.chunk.css",
+    "main.js": "/ManageContacts/static/js/main.a9695c25.chunk.js",
+    "main.js.map": "/ManageContacts/static/js/main.a9695c25.chunk.js.map",
+    "runtime~main.js": "/ManageContacts/static/js/runtime~main.21ad62d5.js",
+    "runtime~main.js.map": "/ManageContacts/static/js/runtime~main.21ad62d5.js.map",
+    "static/css/2.d7a94725.chunk.css": "/ManageContacts/static/css/2.d7a94725.chunk.css",
+    "static/js/2.8362912d.chunk.js": "/ManageContacts/static/js/2.8362912d.chunk.js",
+    "static/js/2.8362912d.chunk.js.map": "/ManageContacts/static/js/2.8362912d.chunk.js.map",
+    "index.html": "/ManageContacts/index.html",
+    "precache-manifest.eca245dcf0e84fcc0a43bf600f84be83.js": "/ManageContacts/precache-manifest.eca245dcf0e84fcc0a43bf600f84be83.js",
+    "service-worker.js": "/ManageContacts/service-worker.js",
+    "static/css/2.d7a94725.chunk.css.map": "/ManageContacts/static/css/2.d7a94725.chunk.css.map",
+    "static/css/main.36497136.chunk.css.map": "/ManageContacts/static/css/main.36497136.chunk.css.map"
+  }
+}
